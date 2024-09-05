@@ -6,6 +6,7 @@
     border: 1;
     padding:200px 150px 75px;
     position:relative;
+    text-align: center;
 }
 .glass .avatar{
     position: absolute;
