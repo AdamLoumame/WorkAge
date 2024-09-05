@@ -103,6 +103,7 @@ body::before{
     animation: appear forwards 0.8s;
     animation-delay: 0.4s;
     margin-top: 100px;
+    text-align: left;
 }
 #userage:focus{
     outline: none;
